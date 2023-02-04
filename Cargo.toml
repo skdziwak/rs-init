@@ -1,0 +1,13 @@
+[package]
+name = "rs-init
+version = "0.1.0"
+edition = "2021"
+authors = ["Szymon Dziwak"]
+description = "A build script for generating init functions
+license = "MIT"
+repository = "https://github.com/skdziwak/rs-init"
+
+[dependencies]
+syn = { version = "1.0.107", features = ["full"] }
+proc-macro2 = "1.0.50"
+quote = "1.0.23"
