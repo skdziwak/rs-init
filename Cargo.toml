@@ -3,7 +3,7 @@ name = "rs-init"
 version = "0.1.0"
 edition = "2021"
 authors = ["Szymon Dziwak"]
-description = "A build script for generating init functions
+description = "A build script for generating init functions"
 license = "MIT"
 repository = "https://github.com/skdziwak/rs-init"
 
